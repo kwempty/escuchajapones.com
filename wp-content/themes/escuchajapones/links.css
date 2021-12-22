@@ -1,0 +1,191 @@
+/*Overall links*/
+a{
+text-decoration:underline;
+
+}
+a:link{
+color:#663300;
+
+}
+a:hover{
+color:#885522;
+text-decoration:underline;
+}
+a:visited{
+color:#442200;
+}
+/*End Overall links*/
+
+/*upper tab menu links*/
+
+#menu a{
+color:#663300;
+font-weight:bold;
+text-decoration:none;
+}
+#menu a:hover{
+text-decoration:underline;
+}
+
+#menu li.page_item a{
+/*background:url(images/nav_left.gif);
+background-repeat:no-repeat;
+background-position: top left;*/
+display:block;
+padding: 10px;
+}
+
+#menu li.current_page_item a{
+/*background:url(images/nav_left_current.gif);
+background-repeat:no-repeat;
+background-position: top left;*/
+
+
+}
+/*End upper tab menu links*/
+
+/*Sidebar*/
+
+.lang_buttons {
+font-weight:bold;
+padding:5px;
+color:#663300;
+}
+
+.sidebar li a{
+text-decoration:none;
+font-weight:bold;
+padding:5px;
+}
+.sidebar li a:hover{
+text-decoration:underline;
+font-weight:bold;
+padding:5px;
+}
+
+
+
+#primary a{
+text-decoration:none;
+
+}
+
+#primary a:link{
+color:#663300;
+}
+/*#primary a:active{
+font-weight:normal;
+}*/
+#primary a:hover{
+color:#885522;
+text-decoration:underline;
+}
+#primary a:visited{
+color:#442200;
+}
+#secondary a:link{
+text-decoration:none;
+color:#663300;
+}
+/*#secondary a:active{
+font-weight:normal;
+}*/
+#secondary a:hover{
+color:#885522;
+}
+#secondary a:visited{
+color:#442200;
+}
+/*End sidebar*/
+
+
+.skip-link{
+display:none;
+}
+/*.skip-link a:link{
+color:#E5EFF7;
+}
+.skip-link a:visited{
+color:#E7EAEC;
+}*/
+
+/*Blog title links*/
+h1#blog-title a{
+text-decoration:none;
+color:#663300;
+/*color:#aa3311;*/
+}
+h1#blog-title a:visited{
+color:#663300;
+/*color:#aa3311;*/
+}
+
+#blog-description a{
+text-decoration:none;
+color:#663300;
+/*color:#aa3311;*/
+}
+#blog-description a:visited{
+color:#663300;
+/*color:#aa3311;*/
+}
+#blog-description a:hover{
+text-decoration:underline;
+color:#663300;
+/*color:#aa3311;*/
+}
+#blog-description a:active{
+color:#663300;
+/*color:#aa3311;*/
+}
+/*End Blog title links*/
+
+/*Entry title*/
+
+h2.entry-title a:link{
+color:#669900;
+text-decoration:none;
+}
+h2.entry-title a:active{
+text-decoration:none;
+color:#88bb44;
+}
+h2.entry-title a:hover{
+color:#88bb44;
+text-decoration:underline;
+}
+h2.entry-title a:visited{
+text-decoration:none;
+color:#447700;
+}
+h2.entry-title{
+margin:25px 0 5px 0;
+font-weight:normal;
+}
+/*End Entry title*/
+
+#footer a{
+color:#663300;
+text-decoration:none;
+}
+#footer a:hover{
+color:#663300;
+text-decoration:underline;
+}
+
+
+/*.entry-content a{
+font-weight:bold;
+}
+
+.home .p1 a{
+color:#663300;
+}
+.home .p1 .entry-title a{
+color:#663300;
+}*/
+
+a.more-link{
+padding:35px 0 0 0;
+text-decoration:none;
+}

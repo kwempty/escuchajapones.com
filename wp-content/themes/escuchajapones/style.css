@@ -1,0 +1,14 @@
+/*
+THEME NAME: Esucha japonés
+THEME URI: http://www.escuchajapones.com/
+DESCRIPTION: Adapted from Daniela Risse's The Hourglass <http://www.morangodesign.com/> for Escucha japonés
+VERSION: 1.0
+AUTHOR: Alejandro Cremades
+AUTHOR URI: http://www.escuchajapones.com/
+TEMPLATE: sandbox
+*/
+
+@import url("main.css");
+@import url("links.css");
+@import url("dynamic.css");
+@import url("ie.css");
