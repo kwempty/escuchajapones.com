@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/alecrem
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://escuchajapones.com
+  * I am alecrem (https://keybase.io/alecrem) on keybase.
+  * I have a public key ASDx4RI3ibIFWvLktCLIl4-BAurAerJNo7azTXYBlhO2qwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012076c80b2e4087bcbe4e812dc2b27a0892c8f422c81e532d378c98933395985b9c0a",
+      "host": "keybase.io",
+      "kid": "0120f1e1123789b2055af2e4b422c8978f8102eac07ab24da3b6b34d76019613b6ab0a",
+      "uid": "ad2c7be450ee01dd0b449049de23d919",
+      "username": "alecrem"
+    },
+    "merkle_root": {
+      "ctime": 1640244082,
+      "hash": "de5d328654710640f0505f20f50ca91d265c97710d32b9039e8519ab58135e44a010677a416ad19598926524d93cea6c8e06a1083050f33efd89e4072a35baeb",
+      "hash_meta": "ddbe708b7bbf24a29aa637a793e203adcd3568919233a0262a8e8ba540c49b2e",
+      "seqno": 21491526
+    },
+    "service": {
+      "entropy": "t9wpPEHcoHex9WhTGDfBAD/X",
+      "hostname": "escuchajapones.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1640244116,
+  "expire_in": 504576000,
+  "prev": "bb1c7926a08410ecbfae6735e5bcd8b344d45fa99e6cf7c391a9b9c41999c7b8",
+  "seqno": 51,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8eESN4myBVry5LQiyJePgQLqwHqyTaO2s012AZYTtqsKp3BheWxvYWTESpcCM8Qguxx5JqCEEOy/rmc15bzYs0TUX6mebPfDkam5xBmZx7jEIPLsxrI2X1lrZrlxsFO5QCPBiFWBJpyAA1uQiQm5fIQnAgHCo3NpZ8RABUYQi+AQew7d9ee0Tp5bGRE3IXaBmkoSWIeKhi0m/slmh9SfW0MdV6BAFLbtTrs1kNp+W2tRQxEH2Hu6/0b4AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINfKbEejs7rpfhqD5riTFcn0Ut8Y55pKJRn1m9sXlG3zo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alecrem
+
+==================================================================
